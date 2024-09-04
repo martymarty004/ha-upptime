@@ -18,6 +18,7 @@ sites:
     check: "tcp-ping"
     url: $FRITZPF
     port: 8089
+    ipv6: true
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

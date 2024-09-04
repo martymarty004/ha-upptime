@@ -1,22 +1,22 @@
 [
   {
     "name": "Home Assistant",
-    "url": "$HOME_ASSISTANT",
+    "url": "$HAURL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
-    "status": "down",
-    "uptime": "79.52%",
-    "uptimeDay": "79.52%",
-    "uptimeWeek": "79.52%",
-    "uptimeMonth": "79.52%",
-    "uptimeYear": "79.52%",
-    "time": 4917,
-    "timeDay": 4917,
-    "timeWeek": 4917,
-    "timeMonth": 4917,
-    "timeYear": 4917,
+    "status": "up",
+    "uptime": "75.40%",
+    "uptimeDay": "75.40%",
+    "uptimeWeek": "75.40%",
+    "uptimeMonth": "75.40%",
+    "uptimeYear": "75.40%",
+    "time": 5965,
+    "timeDay": 5965,
+    "timeWeek": 5965,
+    "timeMonth": 5965,
+    "timeYear": 5965,
     "dailyMinutesDown": {
-      "2024-09-04": 29
+      "2024-09-04": 37
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5615,
-    "timeDay": 5615,
-    "timeWeek": 5615,
-    "timeMonth": 5615,
-    "timeYear": 5615,
+    "time": 6065,
+    "timeDay": 6065,
+    "timeWeek": 6065,
+    "timeMonth": 6065,
+    "timeYear": 6065,
     "dailyMinutesDown": {}
   },
   {
@@ -43,38 +43,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fritz-pet",
     "status": "up",
-    "uptime": "40.55%",
-    "uptimeDay": "40.55%",
-    "uptimeWeek": "40.55%",
-    "uptimeMonth": "40.55%",
-    "uptimeYear": "40.55%",
-    "time": 135,
-    "timeDay": 135,
-    "timeWeek": 135,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "uptime": "53.48%",
+    "uptimeDay": "53.48%",
+    "uptimeWeek": "53.48%",
+    "uptimeMonth": "53.48%",
+    "uptimeYear": "53.48%",
+    "time": 142,
+    "timeDay": 142,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2024-09-04": 17
     }
   },
   {
     "name": "Fritz PF",
-    "url": "$FRITZ_PF",
+    "url": "$FRITZPF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fritz-pf",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-04": 28
+      "2024-09-04": 36
     }
   }
 ]

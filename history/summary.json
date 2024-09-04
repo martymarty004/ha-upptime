@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6339,
-    "timeDay": 6339,
-    "timeWeek": 6339,
-    "timeMonth": 6339,
-    "timeYear": 6339,
+    "time": 6634,
+    "timeDay": 6634,
+    "timeWeek": 6634,
+    "timeMonth": 6634,
+    "timeYear": 6634,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "89.10%",
-    "uptimeDay": "89.10%",
-    "uptimeWeek": "89.10%",
-    "uptimeMonth": "89.10%",
-    "uptimeYear": "89.10%",
-    "time": 4074,
-    "timeDay": 4074,
-    "timeWeek": 4074,
-    "timeMonth": 4074,
-    "timeYear": 4074,
+    "uptime": "90.82%",
+    "uptimeDay": "90.82%",
+    "uptimeWeek": "90.82%",
+    "uptimeMonth": "90.82%",
+    "uptimeYear": "90.82%",
+    "time": 4471,
+    "timeDay": 4471,
+    "timeWeek": 4471,
+    "timeMonth": 4471,
+    "timeYear": 4471,
     "dailyMinutesDown": {
-      "2024-09-04": 78
+      "2024-09-04": 66
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 122,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "time": 120,
+    "timeDay": 120,
+    "timeWeek": 120,
+    "timeMonth": 120,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   },
   {
@@ -71,6 +71,24 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Piccola Fata",
+    "url": "https://www.piccolafata.it/wp-json/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.piccolafata.it.ico",
+    "slug": "piccola-fata",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2837,
+    "timeDay": 2837,
+    "timeWeek": 2837,
+    "timeMonth": 2837,
+    "timeYear": 2837,
     "dailyMinutesDown": {}
   }
 ]

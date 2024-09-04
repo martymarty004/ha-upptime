@@ -5,9 +5,11 @@ repo: ha-upptime # The name of this repository
 sites:
   - name: Home Assistant
     url: $HAURL
+    maxResponseTime: 60000
     
   - name: Bitwarden
     url: $BITWARDEN
+    maxResponseTime: 60000
     
   - name: Fritz Pet
     check: "tcp-ping"

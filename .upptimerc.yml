@@ -4,16 +4,19 @@ repo: ha-upptime # The name of this repository
 
 sites:
   - name: Home Assistant
-    url: $HOME_ASSISTANT
+    url: $HAURL
+    
   - name: Bitwarden
     url: $BITWARDEN
+    
   - name: Fritz Pet
     check: "tcp-ping"
     url: $FRITZ_PET
     port: 8089
+    
   - name: Fritz PF
     check: "tcp-ping"
-    url: $FRITZ_PF
+    url: $FRITZPF
     port: 8089
     
 status-website:

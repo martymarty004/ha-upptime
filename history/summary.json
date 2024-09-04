@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "77.14%",
-    "uptimeDay": "77.14%",
-    "uptimeWeek": "77.14%",
-    "uptimeMonth": "77.14%",
-    "uptimeYear": "77.14%",
-    "time": 6193,
-    "timeDay": 6193,
-    "timeWeek": 6193,
-    "timeMonth": 6193,
-    "timeYear": 6193,
-    "dailyMinutesDown": {
-      "2024-09-04": 37
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 6598,
+    "timeDay": 6598,
+    "timeWeek": 6598,
+    "timeMonth": 6598,
+    "timeYear": 6598,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bitwarden",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5357,
-    "timeDay": 5357,
-    "timeWeek": 5357,
-    "timeMonth": 5357,
-    "timeYear": 5357,
+    "time": 4801,
+    "timeDay": 4801,
+    "timeWeek": 4801,
+    "timeMonth": 4801,
+    "timeYear": 4801,
     "dailyMinutesDown": {}
   },
   {
@@ -43,38 +41,34 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fritz-pet",
     "status": "up",
-    "uptime": "64.46%",
-    "uptimeDay": "64.46%",
-    "uptimeWeek": "64.46%",
-    "uptimeMonth": "64.46%",
-    "uptimeYear": "64.46%",
-    "time": 137,
-    "timeDay": 137,
-    "timeWeek": 137,
-    "timeMonth": 137,
-    "timeYear": 137,
-    "dailyMinutesDown": {
-      "2024-09-04": 17
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 130,
+    "timeDay": 130,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fritz PF",
-    "url": "$FRITZPF",
+    "url": "$FRITZ_PF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fritz-pf",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-04": 47
-    }
+    "dailyMinutesDown": {}
   }
 ]

@@ -4,19 +4,19 @@
     "url": "$HAURL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 6858,
-    "timeDay": 6858,
-    "timeWeek": 6858,
-    "timeMonth": 6858,
-    "timeYear": 6858,
+    "status": "up",
+    "uptime": "99.16%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
+    "time": 6139,
+    "timeDay": 6139,
+    "timeWeek": 6139,
+    "timeMonth": 6139,
+    "timeYear": 6139,
     "dailyMinutesDown": {
-      "2024-09-04": 1
+      "2024-09-04": 5
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bitwarden",
     "status": "down",
-    "uptime": "96.09%",
-    "uptimeDay": "96.09%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "96.09%",
-    "uptimeYear": "96.09%",
+    "uptime": "95.29%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "95.29%",
+    "uptimeYear": "95.29%",
     "time": 4371,
     "timeDay": 4371,
     "timeWeek": 4371,
     "timeMonth": 4371,
     "timeYear": 4371,
     "dailyMinutesDown": {
-      "2024-09-04": 22
+      "2024-09-04": 27
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 130,
-    "timeWeek": 130,
-    "timeMonth": 130,
-    "timeYear": 130,
+    "time": 126,
+    "timeDay": 126,
+    "timeWeek": 126,
+    "timeMonth": 126,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   },
   {

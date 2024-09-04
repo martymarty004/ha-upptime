@@ -26,7 +26,7 @@ sites:
 
   - name: Piccola Fata
     url: https://www.piccolafata.it/wp-json/
-    method: GET
+    method: HEAD
     maxResponseTime: 60000
 
 status-website:

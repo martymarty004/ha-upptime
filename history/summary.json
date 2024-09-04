@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 439,
-    "timeDay": 439,
-    "timeWeek": 439,
-    "timeMonth": 439,
-    "timeYear": 439,
+    "time": 4422,
+    "timeDay": 4422,
+    "timeWeek": 4422,
+    "timeMonth": 4422,
+    "timeYear": 4422,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6085,
-    "timeDay": 6085,
-    "timeWeek": 6085,
-    "timeMonth": 6085,
-    "timeYear": 6085,
+    "time": 7069,
+    "timeDay": 7069,
+    "timeWeek": 7069,
+    "timeMonth": 7069,
+    "timeYear": 7069,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "UniFi Network",
-    "url": "https://ub.domoticadaipapero.duckdns.org",
-    "icon": "https://icons.duckduckgo.com/ip3/ub.domoticadaipapero.duckdns.org.ico",
-    "slug": "uni-fi-network",
-    "status": "down",
-    "uptime": "35.92%",
-    "uptimeDay": "35.92%",
-    "uptimeWeek": "35.92%",
-    "uptimeMonth": "35.92%",
-    "uptimeYear": "35.92%",
-    "time": 6973,
-    "timeDay": 6973,
-    "timeWeek": 6973,
-    "timeMonth": 6973,
-    "timeYear": 6973,
-    "dailyMinutesDown": {
-      "2024-09-04": 0
-    }
   }
 ]

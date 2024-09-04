@@ -16,7 +16,7 @@ sites:
     
   - name: Fritz PF
     check: "tcp-ping"
-    url: $FRITZPF
+    url: $FRITZ_PF
     port: 8089
     ipv6: true
     

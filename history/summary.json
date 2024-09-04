@@ -22,19 +22,19 @@
     "url": "$BITWARDEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bitwarden",
-    "status": "down",
-    "uptime": "95.26%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "95.26%",
-    "uptimeMonth": "95.26%",
-    "uptimeYear": "95.26%",
-    "time": 4371,
-    "timeDay": 4371,
-    "timeWeek": 4371,
-    "timeMonth": 4371,
-    "timeYear": 4371,
+    "status": "up",
+    "uptime": "92.00%",
+    "uptimeDay": "92.00%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "92.00%",
+    "uptimeYear": "92.00%",
+    "time": 4020,
+    "timeDay": 4020,
+    "timeWeek": 4020,
+    "timeMonth": 4020,
+    "timeYear": 4020,
     "dailyMinutesDown": {
-      "2024-09-04": 27
+      "2024-09-04": 47
     }
   },
   {

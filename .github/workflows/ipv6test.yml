@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Check website status
         run: |
-          response=$(curl -sS -o /dev/null -w "%{http_code}" http://[2a07:7e83:1000:2c7f:e72:74ff:fee6:f429])  # Replace with your IP address
+          response=$(curl -sS -o /dev/null -w "%{http_code}" http://[2a07:7e83:1000:2c7f:e72:74ff:fee6:f429]:20995)  # Replace with your IP address
           if [ $response -eq 200 ]; then
             echo "Website is up and running!"
           else

@@ -22,7 +22,7 @@ sites:
     check: "tcp-ping"
     url: $FRITZ_PF
     port: 8089
-    ipv6: true
+    ipv6: false
 
   - name: Piccola Fata
     url: https://www.piccolafata.it/wp-json/

@@ -1,7 +1,7 @@
 url: $FRITZ_PET
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-20T01:52:54.132Z
+status: up
+code: 200
+responseTime: 119
+lastUpdated: 2025-02-20T02:42:31.561Z
 startTime: 2024-09-04T12:34:47.557Z
 generator: Upptime <https://github.com/upptime/upptime>

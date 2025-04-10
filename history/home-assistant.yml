@@ -1,7 +1,7 @@
 url: $HAURL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-10T06:44:05.124Z
+status: up
+code: 200
+responseTime: 5418
+lastUpdated: 2025-04-10T06:55:16.886Z
 startTime: 2024-09-04T10:40:44.440Z
 generator: Upptime <https://github.com/upptime/upptime>

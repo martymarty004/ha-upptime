@@ -10,11 +10,11 @@
     "uptimeWeek": "97.61%",
     "uptimeMonth": "97.33%",
     "uptimeYear": "98.40%",
-    "time": 2699,
-    "timeDay": 3781,
-    "timeWeek": 3609,
-    "timeMonth": 3704,
-    "timeYear": 2699,
+    "time": 2704,
+    "timeDay": 3966,
+    "timeWeek": 3710,
+    "timeMonth": 3738,
+    "timeYear": 2704,
     "dailyMinutesDown": {
       "2025-08-27": 102,
       "2025-08-26": 32,
@@ -109,7 +109,7 @@
     "timeMonth": 105,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-08-27": 963,
+      "2025-08-27": 969,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
@@ -251,7 +251,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-27": 43
+      "2025-08-27": 50
     }
   },
   {
@@ -260,18 +260,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zte-iulian",
     "status": "down",
-    "uptime": "40.48%",
-    "uptimeDay": "40.48%",
-    "uptimeWeek": "40.48%",
-    "uptimeMonth": "40.48%",
-    "uptimeYear": "40.48%",
+    "uptime": "6.48%",
+    "uptimeDay": "6.48%",
+    "uptimeWeek": "6.48%",
+    "uptimeMonth": "6.48%",
+    "uptimeYear": "6.48%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-27": 1
+      "2025-08-27": 7
     }
   },
   {
@@ -291,7 +291,7 @@
     "timeMonth": 104,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-08-27": 961,
+      "2025-08-27": 968,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
@@ -431,11 +431,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
-    "time": 5540,
-    "timeDay": 4597,
-    "timeWeek": 4875,
-    "timeMonth": 5643,
-    "timeYear": 5540,
+    "time": 5538,
+    "timeDay": 4620,
+    "timeWeek": 4869,
+    "timeMonth": 5622,
+    "timeYear": 5538,
     "dailyMinutesDown": {
       "2025-08-20": 18,
       "2025-05-29": 24,

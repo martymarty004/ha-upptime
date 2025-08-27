@@ -9,27 +9,25 @@ sites:
     maxResponseTime: 60000
     
   - name: Fritz Pet
-    check: "tcp-ping"
+    type: globalping
     url: $FRITZ_PET
-    port: 20818
-    ipv6: false
+    location: italy
 
   - name: La Casa Blu
-    check: "tcp-ping"
+    type: globalping
     url: $LA_CASA_BLU
-    ipv6: false
-
-  - name: EterniumH
-    check: "tcp-ping"
+    location: italy
+    
+  - name: ZTE Iulian
+    type: globalping
     url: $ETERNIUMH
-    ipv6: false
+    location: italy
     
   - name: Fritz PF
-    check: "tcp-ping"
+    type: globalping
     url: $FRITZ_PF
-    port: 20995
-    ipv6: false
-
+    location: italy
+    
   - name: Piccola Fata
     url: https://www.piccolafata.it/wp-json/
     method: HEAD

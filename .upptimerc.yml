@@ -16,12 +16,13 @@ sites:
   - name: Fritz Pet
     check: "tcp-ping"
     url: $FRITZ_PET
-    port: 8089
+    port: 20818
+    ipv6: false
     
   - name: Fritz PF
     check: "tcp-ping"
     url: $FRITZ_PF
-    port: 8089
+    port: 20995
     ipv6: false
 
   - name: Piccola Fata

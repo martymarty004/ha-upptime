@@ -8,15 +8,22 @@ sites:
     method: POST
     maxResponseTime: 60000
     
-  - name: Bitwarden
-    url: $BITWARDEN
-    method: GET
-    maxResponseTime: 60000
-    
   - name: Fritz Pet
     check: "tcp-ping"
     url: $FRITZ_PET
     port: 20818
+    ipv6: false
+
+  - name: La Casa Blu
+    check: "tcp-ping"
+    url: $LCB_WG
+    port: 51820
+    ipv6: false
+
+  - name: EterniumH
+    check: "tcp-ping"
+    url: $ETERNIUMH
+    port: 51820
     ipv6: false
     
   - name: Fritz PF

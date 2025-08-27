@@ -11,21 +11,25 @@ sites:
   - name: Fritz Pet
     url: $FRITZ_PET
     type: globalping
+    check: "tcp-ping"
     location: italy
 
   - name: La Casa Blu
     url: $LA_CASA_BLU
     type: globalping
+    check: "tcp-ping"
     location: italy
     
   - name: ZTE Iulian
     url: $ETERNIUMH
     type: globalping
+    check: "tcp-ping"
     location: italy
     
   - name: Fritz PF
     url: $FRITZ_PF
     type: globalping
+    check: "tcp-ping"
     location: italy
     
   - name: Piccola Fata

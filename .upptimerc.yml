@@ -16,14 +16,12 @@ sites:
 
   - name: La Casa Blu
     check: "tcp-ping"
-    url: $LCB_WG
-    port: 51820
+    url: $LA_CASA_BLU
     ipv6: false
 
   - name: EterniumH
     check: "tcp-ping"
     url: $ETERNIUMH
-    port: 51820
     ipv6: false
     
   - name: Fritz PF

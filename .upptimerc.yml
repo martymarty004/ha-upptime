@@ -9,28 +9,24 @@ sites:
     maxResponseTime: 60000
     
   - name: Fritz Pet
-    type: globalping
     url: $FRITZ_PET
+    type: globalping
     location: italy
-    check: ping
 
   - name: La Casa Blu
-    type: globalping
     url: $LA_CASA_BLU
+    type: globalping
     location: italy
-    check: ping
     
   - name: ZTE Iulian
-    type: globalping
     url: $ETERNIUMH
+    type: globalping
     location: italy
-    check: ping
     
   - name: Fritz PF
-    type: globalping
     url: $FRITZ_PF
+    type: globalping
     location: italy
-    check: ping
     
   - name: Piccola Fata
     url: https://www.piccolafata.it/wp-json/

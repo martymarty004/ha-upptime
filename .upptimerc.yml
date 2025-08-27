@@ -12,21 +12,25 @@ sites:
     type: globalping
     url: $FRITZ_PET
     location: italy
+    check: ping
 
   - name: La Casa Blu
     type: globalping
     url: $LA_CASA_BLU
     location: italy
+    check: ping
     
   - name: ZTE Iulian
     type: globalping
     url: $ETERNIUMH
     location: italy
+    check: ping
     
   - name: Fritz PF
     type: globalping
     url: $FRITZ_PF
     location: italy
+    check: ping
     
   - name: Piccola Fata
     url: https://www.piccolafata.it/wp-json/

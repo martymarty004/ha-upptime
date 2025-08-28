@@ -21,7 +21,7 @@ sites:
     location: italy
 
   - name: Chuwi-01
-    url: $CHUWI01
+    url: $CHUWI01_URL
     check: http
     method: GET
     headers:

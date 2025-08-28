@@ -19,12 +19,41 @@ sites:
     type: globalping
     check: "tcp-ping"
     location: italy
+
+  - name: Chuwi-01
+    url: https://chuwi-01.lcb.to.it/api2/json/nodes
+    check: http
+    headers:
+      - "CF-Access-Client-Id: ${{ secrets.CF_LCB_ACCESS_CLIENT_ID }}"
+      - "CF-Access-Client-Secret: ${{ secrets.CF_LCB_ACCESS_CLIENT_SECRET }}"
+      - "Authorization: PVEAPIToken=${{ secrets.PVE_TOKEN_ID }}=${{ secrets.PVE_TOKEN_SECRET }}"
+    expectedStatusCodes: [200]
+    __dangerous__body_down_if_text_missing: '"status":"online"'
+
+  - name: Chuwi-02
+    url: https://chuwi-02.lcb.to.it/api2/json/nodes
+    check: http
+    headers:
+      - "CF-Access-Client-Id: ${{ secrets.CF_LCB_ACCESS_CLIENT_ID }}"
+      - "CF-Access-Client-Secret: ${{ secrets.CF_LCB_ACCESS_CLIENT_SECRET }}"
+      - "Authorization: PVEAPIToken=${{ secrets.PVE_TOKEN_ID }}=${{ secrets.PVE_TOKEN_SECRET }}"
+    expectedStatusCodes: [200]
+    __dangerous__body_down_if_text_missing: '"status":"online"'
     
   - name: ZTE Iulian
     url: $ETERNIUMH
     type: globalping
     check: "tcp-ping"
     location: italy
+
+  - name: EterniumH
+    url: https://tn.eterniumh.it/api/v2.0/system/info/
+    check: http
+    headers:
+      - "CF-Access-Client-Id: ${{ secrets.CF_ETERNIUMH_ACCESS_CLIENT_ID }}"
+      - "CF-Access-Client-Secret: ${{ secrets.CF_ETERNIUMH_ACCESS_CLIENT_SECRET }}"
+      - "Authorization: Bearer ${{ secrets.TRUENAS_ETERNIUMH_API_TOKEN }}"
+    expectedStatusCodes: [200]
     
   - name: Fritz PF
     url: $FRITZ_PF

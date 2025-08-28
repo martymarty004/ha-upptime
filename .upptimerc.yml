@@ -21,7 +21,7 @@ sites:
     location: italy
 
   - name: Chuwi-01
-    url: {{ secrets.CHUWI01_URL }}
+    url: $CHUWI01
     check: http
     method: GET
     headers:
@@ -32,7 +32,7 @@ sites:
     __dangerous__body_down_if_text_missing: '"node":"chuwi-01","status":"online"'
 
   - name: Chuwi-02
-    url: {{ secrets.CHUWI02_URL }}
+    url: $CHUWI02_URL
     check: http
     method: GET
     headers:
@@ -49,7 +49,7 @@ sites:
     location: italy
 
   - name: EterniumH
-    url: {{ secrets.TRUENAS_ETERNIUMH_URL }}
+    url: $TRUENAS_ETERNIUMH_URL
     check: http
     headers:
       - "CF-Access-Client-Id: ${{ secrets.CF_ETERNIUMH_ACCESS_CLIENT_ID }}"

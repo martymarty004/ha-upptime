@@ -25,9 +25,9 @@ sites:
     check: http
     method: GET
     headers:
-      - "CF-Access-Client-Id: ${{ secrets.CF_LCB_ACCESS_CLIENT_ID }}"
-      - "CF-Access-Client-Secret: ${{ secrets.CF_LCB_ACCESS_CLIENT_SECRET }}"
-      - "Authorization: PVEAPIToken=${{ secrets.PVE_TOKEN_ID }}=${{ secrets.PVE_TOKEN_SECRET }}"
+      - "CF-Access-Client-Id: $CF_LCB_ACCESS_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_LCB_ACCESS_CLIENT_SECRET"
+      - "Authorization: PVEAPIToken=$PVE_TOKEN_ID=$PVE_TOKEN_SECRET"
     expectedStatusCodes: [200]
     __dangerous__body_down_if_text_missing: '"node":"chuwi-01","status":"online"'
 
@@ -36,9 +36,9 @@ sites:
     check: http
     method: GET
     headers:
-      - "CF-Access-Client-Id: ${{ secrets.CF_LCB_ACCESS_CLIENT_ID }}"
-      - "CF-Access-Client-Secret: ${{ secrets.CF_LCB_ACCESS_CLIENT_SECRET }}"
-      - "Authorization: PVEAPIToken=${{ secrets.PVE_TOKEN_ID }}=${{ secrets.PVE_TOKEN_SECRET }}"
+      - "CF-Access-Client-Id: $CF_LCB_ACCESS_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_LCB_ACCESS_CLIENT_SECRET"
+      - "Authorization: PVEAPIToken=$PVE_TOKEN_ID=$PVE_TOKEN_SECRET"
     expectedStatusCodes: [200]
     __dangerous__body_down_if_text_missing: '"node":"chuwi-02","status":"online"'
     
@@ -52,9 +52,9 @@ sites:
     url: $TRUENAS_ETERNIUMH_URL
     check: http
     headers:
-      - "CF-Access-Client-Id: ${{ secrets.CF_ETERNIUMH_ACCESS_CLIENT_ID }}"
-      - "CF-Access-Client-Secret: ${{ secrets.CF_ETERNIUMH_ACCESS_CLIENT_SECRET }}"
-      - "Authorization: Bearer ${{ secrets.TRUENAS_ETERNIUMH_API_TOKEN }}"
+      - "CF-Access-Client-Id: $CF_ETERNIUMH_ACCESS_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_ETERNIUMH_ACCESS_CLIENT_SECRET"
+      - "Authorization: Bearer $TRUENAS_ETERNIUMH_API_TOKEN"
     expectedStatusCodes: [200]
     
   - name: Fritz PF

@@ -21,7 +21,7 @@ sites:
     location: italy
 
   - name: Chuwi-01
-    url: $CHUWI01_URL
+    url: $CHUWI01_URL/api2/json/nodes/chuwi-01/status
     check: http
     method: GET
     headers:
@@ -29,10 +29,9 @@ sites:
       - "CF-Access-Client-Secret: $CF_LCB_ACCESS_CLIENT_SECRET"
       - "Authorization: PVEAPIToken=$PVE_TOKEN_ID=$PVE_TOKEN_SECRET"
     expectedStatusCodes: [200]
-    __dangerous__body_down_if_text_missing: '"node":"chuwi-01","status":"online"'
 
   - name: Chuwi-02
-    url: $CHUWI02_URL
+    url: $CHUWI02_URL/api2/json/nodes/chuwi-02/status
     check: http
     method: GET
     headers:
@@ -40,7 +39,6 @@ sites:
       - "CF-Access-Client-Secret: $CF_LCB_ACCESS_CLIENT_SECRET"
       - "Authorization: PVEAPIToken=$PVE_TOKEN_ID=$PVE_TOKEN_SECRET"
     expectedStatusCodes: [200]
-    __dangerous__body_down_if_text_missing: '"node":"chuwi-02","status":"online"'
     
   - name: ZTE Iulian
     url: $ETERNIUMH

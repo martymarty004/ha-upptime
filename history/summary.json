@@ -4,9 +4,9 @@
     "url": "$HAURL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "98.48%",
@@ -16,6 +16,7 @@
     "timeMonth": 2273,
     "timeYear": 2662,
     "dailyMinutesDown": {
+      "2025-11-02": 0,
       "2025-10-21": 21,
       "2025-10-20": 16,
       "2025-10-15": 67,
@@ -94,8 +95,7 @@
       "2024-11-28": 625,
       "2024-11-23": 22,
       "2024-11-22": 70,
-      "2024-11-19": 224,
-      "2024-11-14": 17
+      "2024-11-19": 224
     }
   },
   {
@@ -104,7 +104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fritz-pet",
     "status": "up",
-    "uptime": "72.57%",
+    "uptime": "72.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -320,11 +320,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zte-iulian",
     "status": "up",
-    "uptime": "98.03%",
+    "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.03%",
+    "uptimeYear": "98.04%",
     "time": 18,
     "timeDay": 14,
     "timeWeek": 16,

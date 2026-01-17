@@ -1,7 +1,7 @@
 url: $FRITZ_PF
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-01-17T07:51:31.289Z
+status: up
+code: 200
+responseTime: 22
+lastUpdated: 2026-01-17T08:16:38.286Z
 startTime: 2024-09-04T12:36:05.071Z
 generator: Upptime <https://github.com/upptime/upptime>

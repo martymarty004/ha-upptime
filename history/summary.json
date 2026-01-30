@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "93.79%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "97.52%",
+    "uptime": "98.97%",
+    "uptimeDay": "94.79%",
+    "uptimeWeek": "97.10%",
+    "uptimeMonth": "97.55%",
     "uptimeYear": "98.56%",
     "time": 2787,
     "timeDay": 1664,
-    "timeWeek": 2412,
+    "timeWeek": 2146,
     "timeMonth": 2881,
     "timeYear": 2873,
     "dailyMinutesDown": {
-      "2026-01-29": 89,
+      "2026-01-29": 75,
       "2026-01-26": 44,
       "2026-01-23": 210,
       "2026-01-21": 322,
@@ -90,7 +90,8 @@
       "2025-02-20": 51,
       "2025-02-14": 174,
       "2025-02-13": 20,
-      "2025-02-12": 16
+      "2025-02-12": 16,
+      "2025-02-11": 42
     }
   },
   {
@@ -102,7 +103,7 @@
     "uptime": "75.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
-    "uptimeMonth": "87.68%",
+    "uptimeMonth": "87.97%",
     "uptimeYear": "65.07%",
     "time": 86,
     "timeDay": 31,

@@ -1,7 +1,7 @@
 url: $CHUWI02_URL/api2/json/nodes/chuwi-02/status
 status: down
 code: 502
-responseTime: 14781
-lastUpdated: 2026-02-27T14:23:26.286Z
+responseTime: 3529
+lastUpdated: 2026-02-27T23:20:22.918Z
 startTime: 2025-08-28T14:51:11.866Z
 generator: Upptime <https://github.com/upptime/upptime>

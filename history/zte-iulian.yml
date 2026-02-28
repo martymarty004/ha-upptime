@@ -1,7 +1,7 @@
 url: $ETERNIUMH
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-02-28T21:49:08.041Z
+status: up
+code: 200
+responseTime: 8
+lastUpdated: 2026-02-28T22:00:12.149Z
 startTime: 2025-08-27T17:07:09.418Z
 generator: Upptime <https://github.com/upptime/upptime>

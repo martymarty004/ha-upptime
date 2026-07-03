@@ -1,7 +1,7 @@
 url: $TRUENAS_ETERNIUMH_URL
-status: down
-code: 530
-responseTime: 40
-lastUpdated: 2026-07-02T22:48:39.524Z
+status: up
+code: 200
+responseTime: 1515
+lastUpdated: 2026-07-03T00:06:53.956Z
 startTime: 2025-08-28T14:52:30.974Z
 generator: Upptime <https://github.com/upptime/upptime>

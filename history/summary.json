@@ -244,17 +244,17 @@
     "url": "$CHUWI02_URL/api2/json/nodes/chuwi-02/status",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chuwi-02",
-    "status": "down",
+    "status": "up",
     "uptime": "59.09%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "59.09%",
-    "time": 1943,
-    "timeDay": 5588,
-    "timeWeek": 2540,
-    "timeMonth": 1148,
-    "timeYear": 1943,
+    "time": 1940,
+    "timeDay": 4605,
+    "timeWeek": 2370,
+    "timeMonth": 1135,
+    "timeYear": 1940,
     "dailyMinutesDown": {
       "2025-08-28": 121,
       "2025-09-12": 20,
@@ -415,7 +415,7 @@
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 577,
-      "2026-08-23": 28
+      "2026-08-23": 41
     }
   },
   {
